@@ -14,7 +14,10 @@ var mongoose    = require('mongoose');
 
 // Conexão no mongodb do mlab
 mongoose.connect('mongodb://agenda:agenda12345678@ds331135.mlab.com:31135/api_agenda',{useNewUrlParser: true}); 
-//mongoose.connect('mongodb://localhost/api_agenda'); 
+
+// Conexão local
+//mongoose.connect('mongodb://localhost:27017/api_agenda',{useNewUrlParser: true});
+
 mongoose.set();
 
 // Configuração de parametros vindo via POST (aceita application/x-www-form-urlencoded ou json)
