@@ -2,8 +2,8 @@
   "author": "FreeLeft",
   "license": "MIT",
   "version": "1.0.0",
-  "description": "API em Node.Js com banco MongoDb, demonstrando o funcionamento de uma API de agenda de contatos (CRUD)",
-  "name": "node-api_server_test",
+  "description": "API em Node.Js com banco MongoDb, demonstrando o funcionamento uma agenda de contatos simples.",
+  "name": "node-api_server_agenda",
   "main": "api_server.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec"
@@ -17,6 +17,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeleft/api_test"
+    "url": "https://github.com/freeleft/api_agenda"
   }
 }
