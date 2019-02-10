@@ -2,7 +2,7 @@
   "author": "FreeLeft",
   "license": "MIT",
   "version": "1.0.0",
-  "description": "API em Node.Js com banco MongoDb, demonstrando o funcionamento uma agenda de contatos simples.",
+  "description": "API em Node.Js com banco MongoDb, demonstrando o funcionamento de uma agenda de contatos simples.",
   "name": "node-api_server_agenda",
   "main": "api_server.js",
   "scripts": {
