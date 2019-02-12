@@ -145,7 +145,3 @@ http://localhost:8080/api_agenda/contatos/:contato_id
 ```
 
 ![alt text](https://raw.githubusercontent.com/freeleft/api_agenda/master/images/img6.png)
-
-
-## Exibindo que os contatos foi excluido
-![alt text](https://raw.githubusercontent.com/freeleft/api_agenda/master/images/img7.png)
