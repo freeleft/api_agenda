@@ -118,13 +118,7 @@ http://localhost:8080/api_agenda/contatos
 http://localhost:8080/api_agenda/contatos/:contato_id
 (POST)
 ```
-```json
-{
-  "nome":"Mário",
-  "email":"mario@sorocaba.ufscar.br",
-  "telefone":"15911111111"
- }
-```
+
 ![alt text](https://raw.githubusercontent.com/freeleft/api_agenda/master/images/img4.png)
 
 
@@ -137,24 +131,19 @@ http://localhost:8080/api_agenda/contatos/:contato_id
 {
   "nome":"Mário",
   "email":"mario@sorocaba.ufscar.br",
-  "telefone":"15911111111"
+  "telefone":"15944444444"
  }
 ```
+
 ![alt text](https://raw.githubusercontent.com/freeleft/api_agenda/master/images/img5.png)
 
 
 ## Excluindo um contato
 ```
-http://localhost:8080/api_agenda/contatos
-(POST)
+http://localhost:8080/api_agenda/contatos/:contato_id
+(DELETE)
 ```
-```json
-{
-  "nome":"Mário",
-  "email":"mario@sorocaba.ufscar.br",
-  "telefone":"15911111111"
- }
-```
+
 ![alt text](https://raw.githubusercontent.com/freeleft/api_agenda/master/images/img6.png)
 
 
