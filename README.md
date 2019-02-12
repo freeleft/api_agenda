@@ -10,6 +10,7 @@ Feito por: Mario, Otávio e Thiago.
 - Mongoose
 - JSON
 - Postman
+- GIT
 - Visual Studio Code
 
 ## Testando a Aplicação no Postman:
@@ -28,9 +29,9 @@ A API permite inserir os dados também via JSON, no passo a passo é dado um exe
 
 ### Pre-Requisitos
 
-Necessário ter o [Node.js](https://nodejs.org/en/download/) instalado para rodar a aplicação.
+Para usar os recursos do GIT é necessária a instalação do [Git](https://git-scm.com/).
 
-Para executar o comando Git:Clone no Visual Code, será necessária a instalação do [GitHub](https://desktop.github.com).
+Necessário ter o [Node.js](https://nodejs.org/en/download/) instalado para rodar a aplicação.
 
 Não é necessário ter instalado (embora seja possivel) o MongoDb localmente, uma vez que o projeto foi feito e testado com ajuda do site [MLab](https://mlab.com/)
 
@@ -84,7 +85,7 @@ Caso decida rodar diretamente pelo prompt a mensagem será similar e o funcionan
 ![alt text](https://raw.githubusercontent.com/freeleft/api_agenda/master/images/img1.png)
 
 
-# Exemplos de uso com PostMan
+# Testando a API com PostMan
 
 ## Fazendo teste de inserção
 ![alt text](https://raw.githubusercontent.com/freeleft/api_agenda/master/images/img2.png)
