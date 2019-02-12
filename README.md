@@ -27,7 +27,7 @@ http://localhost:8080/api_agenda/contatos/:contato_id  |DELETE| Excluir Por Id  
 
 A API permite inserir os dados também via JSON, no passo a passo é dado um exemplo desse tipo de inserção.
 
-### Pre-Requisitos
+### Pré-Requisitos
 
 Para usar os recursos do GIT é necessária a instalação do [Git](https://git-scm.com/).
 
