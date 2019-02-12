@@ -106,15 +106,9 @@ http://localhost:8080/api_agenda/contatos
 ## Selecionando todos os contatos da agenda
 ```
 http://localhost:8080/api_agenda/contatos
-(POST)
+(GET)
 ```
-```json
-{
-  "nome":"Mário",
-  "email":"mario@sorocaba.ufscar.br",
-  "telefone":"15911111111"
- }
-```
+
 
 ![alt text](https://raw.githubusercontent.com/freeleft/api_agenda/master/images/img3.png)
 
