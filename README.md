@@ -89,9 +89,9 @@ Caso decida rodar diretamente pelo prompt a mensagem será similar e o funcionan
 
 ## Fazendo teste de inserção
 
-  ROTA                                               | TIPO |
----------------------------------------------------- |----- | 
-http://localhost:8080/api_agenda/contatos            |POST  |
+```
+http://localhost:8080/api_agenda/contatos (POST)
+```
 
 ```json
 {
