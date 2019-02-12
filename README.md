@@ -89,8 +89,9 @@ Caso decida rodar diretamente pelo prompt a mensagem será similar e o funcionan
 
 ## Fazendo teste de inserção
 
-ROTA	TIPO	Descrição	Observação
-http://localhost:8080/api_agenda/contatos	POST	Inserir Contato	x-www-form-urlencoded
+  ROTA                                               | TIPO |
+---------------------------------------------------- |----- | 
+http://localhost:8080/api_agenda/contatos            |POST  |
 
 ```json
 {
