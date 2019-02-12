@@ -90,7 +90,11 @@ Caso decida rodar diretamente pelo prompt a mensagem será similar e o funcionan
 ## Fazendo teste de inserção
 
 ```json
-Here goes your json object definition
+{
+  "nome":"Mário",
+  "email":"mario@sorocaba.ufscar.br",
+  "telefone":"15911111111"
+ }
 ```
 
 ![alt text](https://raw.githubusercontent.com/freeleft/api_agenda/master/images/img2.png)
