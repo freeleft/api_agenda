@@ -92,7 +92,6 @@ Caso decida rodar diretamente pelo prompt a mensagem será similar e o funcionan
 ```
 http://localhost:8080/api_agenda/contatos (POST)
 ```
-
 ```json
 {
   "nome":"Mário",
