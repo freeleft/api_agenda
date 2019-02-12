@@ -115,7 +115,7 @@ http://localhost:8080/api_agenda/contatos
 
 ## Selecionando por id de contato
 ```
-http://localhost:8080/api_agenda/contatos
+http://localhost:8080/api_agenda/contatos/:contato_id
 (POST)
 ```
 ```json
@@ -130,8 +130,8 @@ http://localhost:8080/api_agenda/contatos
 
 ## Atualizando um contato
 ```
-http://localhost:8080/api_agenda/contatos
-(POST)
+http://localhost:8080/api_agenda/contatos/:contato_id
+(PUT)
 ```
 ```json
 {
