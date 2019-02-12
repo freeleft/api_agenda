@@ -30,6 +30,8 @@ A API permite inserir os dados também via JSON, no passo a passo é dado um exe
 
 Necessário ter o [Node.js](https://nodejs.org/en/download/) instalado para rodar a aplicação.
 
+Para executar o comando Git:Clone no Visual Code, será necessária a instalação do [GitHub](https://desktop.github.com).
+
 Não é necessário ter instalado (embora seja possivel) o MongoDb localmente, uma vez que o projeto foi feito e testado com ajuda do site [MLab](https://mlab.com/)
 
 ## MLab usado no desenvolvimento, tela de gerenciamento
