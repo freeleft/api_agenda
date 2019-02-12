@@ -120,19 +120,49 @@ http://localhost:8080/api_agenda/contatos
 
 
 ## Selecionando por id de contato
+```
+http://localhost:8080/api_agenda/contatos
+(POST)
+```
+```json
+{
+  "nome":"Mário",
+  "email":"mario@sorocaba.ufscar.br",
+  "telefone":"15911111111"
+ }
+```
 ![alt text](https://raw.githubusercontent.com/freeleft/api_agenda/master/images/img4.png)
 
 
 ## Atualizando um contato
+```
+http://localhost:8080/api_agenda/contatos
+(POST)
+```
+```json
+{
+  "nome":"Mário",
+  "email":"mario@sorocaba.ufscar.br",
+  "telefone":"15911111111"
+ }
+```
 ![alt text](https://raw.githubusercontent.com/freeleft/api_agenda/master/images/img5.png)
 
 
 ## Excluindo um contato
+```
+http://localhost:8080/api_agenda/contatos
+(POST)
+```
+```json
+{
+  "nome":"Mário",
+  "email":"mario@sorocaba.ufscar.br",
+  "telefone":"15911111111"
+ }
+```
 ![alt text](https://raw.githubusercontent.com/freeleft/api_agenda/master/images/img6.png)
 
 
 ## Exibindo que os contatos foi excluido
 ![alt text](https://raw.githubusercontent.com/freeleft/api_agenda/master/images/img7.png)
-
-## Metodo de entrada alternativa com JSON, inserção de contato
-![alt text](https://raw.githubusercontent.com/freeleft/api_agenda/master/images/img8.png)
