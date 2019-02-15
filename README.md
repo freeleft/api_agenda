@@ -1,4 +1,4 @@
-# API em Node.Js com banco MongoDb, demonstrando o funcionamento de uma agenda de contatos simples.
+# API em Node.Js com banco MongoDB, demonstrando o funcionamento de uma agenda de contatos simples.
 Feito por: Mario, Otávio e Thiago.
 
 
