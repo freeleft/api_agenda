@@ -118,7 +118,7 @@ http://localhost:8080/api_agenda/contatos
 ## Selecionando por id de contato
 ```
 http://localhost:8080/api_agenda/contatos/:contato_id
-(POST)
+(GET)
 ```
 
 ![alt text](https://raw.githubusercontent.com/freeleft/api_agenda/master/images/img4.png)
